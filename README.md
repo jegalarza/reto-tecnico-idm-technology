@@ -51,7 +51,7 @@ ms-reto-tecnico/
 │   │   ├── GatewayApplication.java
 │   └── src/main/resources/application.properties
 │
-├── api-gateway/
+├── discovery-server/
 │   ├── src/main/java/com/idm/discovery/
 │   │   ├── DiscoveryApplication.java
 │   └── src/main/resources/application.properties
