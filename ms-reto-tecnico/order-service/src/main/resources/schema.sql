@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS ordenes (
+  id BIGINT PRIMARY KEY AUTO_INCREMENT,
+  producto_id BIGINT NOT NULL,
+  cantidad INT NOT NULL
+);

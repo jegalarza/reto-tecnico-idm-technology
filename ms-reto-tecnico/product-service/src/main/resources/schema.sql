@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS productos (
+  id BIGINT PRIMARY KEY,
+  nombre VARCHAR(255) NOT NULL,
+  categoria VARCHAR(100),
+  precio DOUBLE
+);
